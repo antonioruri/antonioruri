@@ -1,16 +1,18 @@
-## Hi there 👋
+# Benvenuti nel mio profilo GitHub! 👋
 
-<!--
-**antonioruri/antonioruri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono Antonio, laureato in Informatica con passione per lo sviluppo software e la tecnologia. Qui troverai alcuni dei miei progetti e lavori passati.
 
-Here are some ideas to get you started:
+## Formazione e Competenze
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Laureato in Informatica presso [Nome dell'Università]
+- 💻 Esperienza nei seguenti linguaggi e tecnologie:
+  - Java
+  - C
+  - C++
+
+
+## Contatti
+
+- Trovami su LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/antoniocaccioppola]
+
+
