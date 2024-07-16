@@ -14,6 +14,6 @@ Sono Antonio, laureato in Informatica con passione per lo sviluppo software e la
 
 ## Contatti
 
-- Trovami su LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/antoniocaccioppola]
+- Trovami su LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/antoniocaccioppola])
 
 
