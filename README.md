@@ -9,6 +9,7 @@ Sono Antonio, laureato in Informatica con passione per lo sviluppo software e la
   - Java
   - C
   - C++
+  - Python
 
 
 ## Contatti
