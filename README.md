@@ -1,19 +1,16 @@
-# Benvenuti nel mio profilo GitHub! 👋
+Welcome to my GitHub profile! 👋
 
-Sono Antonio, laureato in Informatica con passione per lo sviluppo software e la tecnologia. Qui troverai alcuni dei miei progetti e lavori passati.
+Hi, I'm Antonio, a Computer Science graduate with a passion for software development and technology. Here, you'll find some of my past projects and works.
 
-## Formazione e Competenze
+Education and Skills
 
-- 🎓 Laureato in Informatica presso [Nome dell'Università]
-- 💻 Esperienza nei seguenti linguaggi e tecnologie:
-  - Java
-  - C
-  - C++
-  - Python
+🎓 Bachelor's degree in Computer Science from the University of Bari
+🎓 Master's degree in Computer Engineering: Artificial Intelligence and Data Science
+💻 Experienced in the following languages and technologies:
+Java
+C
+C++
+Python
+Contact
 
-
-## Contatti
-
-- Trovami su LinkedIn: https://www.linkedin.com/in/antoniocaccioppola
-
-
+Connect with me on LinkedIn: https://www.linkedin.com/in/antoniocaccioppola
